@@ -1,0 +1,10 @@
+---
+releases:
+  0.1.0:
+    changes:
+      bugfixes: []
+      minor_changes:
+      - initial release adding static dns support.
+      release_summary: '| Release date: 2023-04-16
+        '
+    release_date: '2023-04-16'
